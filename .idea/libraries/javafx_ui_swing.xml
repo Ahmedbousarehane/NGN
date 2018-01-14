@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javafx-ui-swing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javafx-ui-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

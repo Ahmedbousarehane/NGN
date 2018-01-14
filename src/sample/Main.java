@@ -15,8 +15,8 @@ public class Main extends Application  {
     public void start(Stage primaryStage) throws Exception{
         Platform.setImplicitExit(false);
         Pane root = FXMLLoader.load(getClass().getResource("home.fxml"));
-        primaryStage.setTitle("Phone");
-        primaryStage.setScene(new Scene(root, 300, 550));
+        primaryStage.setTitle("Telephone");
+        primaryStage.setScene(new Scene(root, 546, 234));
         primaryStage.show();
         stage = primaryStage;
     }

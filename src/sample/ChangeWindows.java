@@ -44,7 +44,7 @@ public class ChangeWindows {
                             loader.<ControllerInvite>getController();
 
 
-                    Main.stage.setScene(new Scene(pane, 300, 550));
+                    Main.stage.setScene(new Scene(pane, 546, 234));
 
                 } catch (IOException e) {
                     e.printStackTrace();

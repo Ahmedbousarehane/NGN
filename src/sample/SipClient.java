@@ -138,7 +138,7 @@ class SipClient implements SipListener {
                     callIdHeader, cSeqHeader, fromHeader,
                     toHeader, viaHeaders, maxForwards);
             // Ajouter l’adresse de contacte.
-            contactAddress.setDisplayName("Messaoudi");
+            contactAddress.setDisplayName("Bousarehane");
 
             contactHeader = headerFactory.createContactHeader(contactAddress);
             request.addHeader(contactHeader);
